@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benson41
-- 👀 I’m interested in  "Développements Arduino  ESp32"
-- 🌱 I’m currently learning  "l'installation de mon site prestashop"
-- 💞️ I’m looking to collaborate on  "Développement IOT en lien avec Ok Google, alexia"
+- 👀 I’m interested in  Développements Arduino  ESp32
+- 🌱 I’m currently learning  l'installation de mon site prestashop
+- 💞️ I’m looking to collaborate on  Développement IOT en lien avec Ok Google, alexia
 - 📫 How to reach me  par simple mail.
 
 <!---
